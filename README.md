@@ -34,7 +34,7 @@ Track your spending, monitor balance, and stay financially aware — all in one 
 
 ## 📸 Preview
 
-> Add screenshots here for better presentation
+> <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/eeba299b-9238-4f8b-a84d-d7715490e241" />
 
 ---
 
